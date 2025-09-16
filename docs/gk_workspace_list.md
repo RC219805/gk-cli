@@ -23,6 +23,7 @@ gk workspace list [flags]
 
 ```
   -h, --help   help for list
+  -s, --sync   Force synchronization of your cloud workspaces
 ```
 
 ### SEE ALSO

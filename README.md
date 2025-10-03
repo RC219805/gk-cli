@@ -4,7 +4,7 @@
 
 GitKraken CLI is available on macOS, Windows, and Unix systems.
 
-![](./images/cli-header-wide.png)
+![][def]
 
 ## Table of Contents
 
@@ -168,7 +168,7 @@ winget install gitkraken.cli
 
 ### Nerd Fonts
 
-The GitKraken CLI supports Nerd Fonts to display icons for some commands. To ensure correct icon rendering, please obtain and install a Nerd Font available at https://www.nerdfonts.com/. After installation, set the selected Nerd Font as the default font for your terminal.
+The GitKraken CLI supports Nerd Fonts to display icons for some commands. To ensure correct icon rendering, please obtain and install a Nerd Font available at <https://www.nerdfonts.com/>. After installation, set the selected Nerd Font as the default font for your terminal.
 
 ## Troubleshooting
 
@@ -197,3 +197,5 @@ To fix this, go to Settings > Security & Privacy > General and click "Allow Anyw
 Try running `gk setup` again and then click "Open Anyway" to continue.
 
 ![](./images/open-anyway.png)
+
+[def]: ./images/cli-header-wide.png
